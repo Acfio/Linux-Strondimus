@@ -1,5 +1,5 @@
 # Linux-Strondimus
-This is a **modified kernel linux** created for my **OS Debian-Based Strondimus**. The actual kernel release is the [_**linux-5.15.64**_](https://github.com/Acfio/Linux-Vodka/releases/v5.15.64-beta) and the name of the version is **Vodka**.
+This is a **modified kernel linux** created for my **OS Debian-Based Strondimus**. The actual kernel release is the [_**linux-5.15.64**_](https://www.kernel.org/) and the name of the version is **Vodka**.
 
 ## Characteristics
 
